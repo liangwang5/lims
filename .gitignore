@@ -1,0 +1,9 @@
+/build
+/.git
+/.gradle
+/bin/
+/.classpath
+/.project
+/.settings/
+/src/main/resources/application.properties
+/src/main/resources/public/_index.html
